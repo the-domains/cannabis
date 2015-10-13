@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://ringoffireradio.com/2015/10/11/national-cancer-institute-posts-benefits-of-marijuana-on-federal-govt-website/'
 title: National Cancer Institute Posts Benefits of Marijuana on Federal Govt. Website -
-datePublished: '2015-10-13T03:04:39.597Z'
-dateModified: '2015-10-13T03:00:48.303Z'
+datePublished: '2015-10-13T03:04:44.998Z'
+dateModified: '2015-10-13T03:04:39.597Z'
 sourcePath: _posts/2015-10-13-national-cancer-institute-posts-benefits-of-marijuana-on-fed.md
 published: true
 inFeed: true
