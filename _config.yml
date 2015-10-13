@@ -1,13 +1,26 @@
-analytics: {}
+name: cannabis
+favicon: null
+layout_spectrum: 0.9237285841856948
+typography_spectrum: 0.5823739008860412
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors: []
   brandStrength: 0.6768811723912295
   lightness: 0.832342066365267
-  rhythmicContrast: 0.4415947964490644
   saturation: 0.6208205803666499
-cta: {}
-layout_spectrum: 0.9237285841856948
-name: cannabis
-opengraph: {}
-purpose: {}
-typography_spectrum: 0.5823739008860412
+  rhythmicContrast: 0.4415947964490644
+purpose:
+  - name: null
+    item: df35ee61-e190-468d-9081-acc9da1c781e
+    url: null
