@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[cannabis]]></title>
         <description><![CDATA[cannabis]]></description>
         <link>https://thegrid.ai/cannabis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 16:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 Nov 2015 15:24:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/cannabis/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Medical marijuana goes on sale Monday in Illinois]]></title>
+            <description><![CDATA[<article><h1>Medical marijuana goes on sale Monday in Illinois</h1><p>Marijuana is expected to be sold legally in Illinois for the first time in decades Monday to those who have qualified to be among the first patients in the state's medical cannabis program.</p><img src="http://www.trbimg.com/img-564010b9/turbine/ct-illinois-medical-marijuana-first-day-met-20151108"></article>]]></description>
+            <link>http://www.chicagotribune.com/news/local/breaking/ct-illinois-medical-marijuana-first-day-met-20151108-story.html</link>
+            <guid isPermaLink="false">c9cbb69b-1592-433e-a36c-c604b3504f18</guid>
+            <pubDate>Mon, 09 Nov 2015 15:23:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Colorado's monthly marijuana sales top $100 million]]></title>
             <description><![CDATA[<article><h1>Colorado's monthly marijuana sales top $100 million</h1><p>From Yahoo News: In August, pot sales blazed past the $100 million mark - the highest monthly total since legal recreational cannabis sales began there in January 2014. So where do they stash all that cash? For ganjapreneurs, that's the billion-dollar question currently facing the marijuana industry.</p><img src="http://l1.yimg.com/bt/api/res/1.2/z_3v8dBT_1MjwaLgbtBUqQ--/YXBwaWQ9eW5ld3NfbGVnbztmaT1maWxsO2g9Mzc3O2lsPXBsYW5lO3B4b2ZmPTUwO3B5b2ZmPTA7cT03NTt3PTY3MA--/http://l.yimg.com/os/publish-images/news/2014-01-01/7281f8a8-30ea-46a2-810e-9455d96a3dd7_AP224708641700_1.jpg"></article>]]></description>
